@@ -160,6 +160,11 @@ Based on the project analysis, **XGBoost performed as the best model for this cu
 - Jupyter Notebook
 
 ---
+## Model Accuracy
+![image alt](https://github.com/Afzar26/Customer_Churn_Prediction/blob/main/accuracy%20scores.png?raw=true)
+
+## ROC-AUC Curve
+![image alt]()
 
 
 ## 👤 Author
